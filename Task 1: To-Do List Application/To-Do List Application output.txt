@@ -1,0 +1,21 @@
+===== TO-DO LIST MENU =====
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+
+Enter your choice (1-4): 1
+Enter a new task: Complete Python Project
+Task added successfully!
+
+Enter your choice (1-4): 2
+
+Your Tasks:
+1. Complete Python Project
+
+Enter your choice (1-4): 3
+Enter task number to remove: 1
+Task 'Complete Python Project' removed successfully!
+
+Enter your choice (1-4): 4
+Thank you for using To-Do List Application!

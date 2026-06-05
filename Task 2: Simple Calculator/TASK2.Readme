@@ -1,3 +1,46 @@
-Perform basic arithmetic operations.
-Take user input and display results.
-Concepts: Variables, Operators, Conditional Statements.
+# Simple Calculator
+
+## Project Overview
+
+The Simple Calculator is a Python-based application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It accepts user input and displays the calculated result.
+
+## Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Division-by-zero handling
+* Interactive user interface
+
+## Technologies Used
+
+* Python 3
+* Arithmetic Operators
+* Conditional Statements
+* User Input Handling
+
+## How to Run
+
+1. Install Python 3.
+2. Save the file as `calculator.py`.
+3. Run:
+   python calculator.py
+
+## Sample Operations
+
+* Addition (+)
+* Subtraction (-)
+* Multiplication (*)
+* Division (/)
+
+## Learning Outcomes
+
+* Understanding arithmetic operations
+* Working with conditional statements
+* User interaction using input/output functions
+* Error handling techniques
+
+## Conclusion
+
+The calculator project provides hands-on experience with Python fundamentals and demonstrates how programming can automate basic mathematical calculations.

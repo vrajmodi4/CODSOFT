@@ -1,3 +1,47 @@
-Create, view, update, and delete tasks.
-Can be implemented as a command-line application or GUI.
-Concepts: Lists, Functions, Loops, CRUD operations.
+# To-Do List Application
+
+## Project Overview
+
+The To-Do List Application is a command-line Python program that helps users manage their daily tasks efficiently. Users can add, view, and remove tasks through a simple menu-driven interface.
+
+## Features
+
+* Add new tasks
+* View all tasks
+* Remove completed tasks
+* User-friendly menu system
+* Error handling for invalid inputs
+
+## Technologies Used
+
+* Python 3
+* Lists
+* Loops
+* Conditional Statements
+* Exception Handling
+
+## How to Run
+
+1. Install Python 3.
+2. Save the file as `todo.py`.
+3. Open Command Prompt or Terminal.
+4. Run:
+   python todo.py
+
+## Sample Output
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+
+## Learning Outcomes
+
+* Understanding Python lists
+* Working with loops and conditions
+* Implementing CRUD operations
+* Handling user input effectively
+
+## Conclusion
+
+This project demonstrates the implementation of a basic task management system using Python. It provides a practical understanding of fundamental programming concepts and user interaction.

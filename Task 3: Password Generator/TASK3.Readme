@@ -1,3 +1,41 @@
-Generate strong random passwords.
-Allow users to specify password length.
-Concepts: Random module, String module, User Input.
+# Password Generator
+
+## Project Overview
+
+The Password Generator is a Python application that creates secure and random passwords based on the user's specified length. The generated passwords include letters, numbers, and special characters to enhance security.
+
+## Features
+
+* User-defined password length
+* Random password generation
+* Strong password creation
+* Inclusion of uppercase, lowercase, digits, and special characters
+
+## Technologies Used
+
+* Python 3
+* Random Module
+* String Module
+
+## How to Run
+
+1. Install Python 3.
+2. Save the file as `password_generator.py`.
+3. Run:
+   python password_generator.py
+
+## Example Output
+
+Generated Password:
+A@7kP#9mX2!q
+
+## Learning Outcomes
+
+* Using Python libraries
+* Randomization techniques
+* String manipulation
+* Cybersecurity fundamentals related to password strength
+
+## Conclusion
+
+This project demonstrates the use of Python's built-in modules to generate secure passwords and highlights the importance of strong authentication practices.

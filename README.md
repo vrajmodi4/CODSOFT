@@ -5,16 +5,4 @@ Task 1: To-Do List Application
 Task 2: Calculator 
 Task 3: Password Generator
 
-CODSOFT
-│
-├── Task1_ToDoList/
-│   ├── todo.py
-│   ├── README.md
-│
-├── Task2_Calculator/
-│   ├── calculator.py
-│   ├── README.md
-│
-└── Task3_PasswordGenerator/
-    ├── password_generator.py
-    ├── README.md
+This repository contains three Python projects completed as part of the CodSoft Python Programming Internship: To-Do List Application, Calculator, and Password Generator. These projects demonstrate core Python concepts including user input handling, loops, conditional statements, functions, data structures, and Python libraries.

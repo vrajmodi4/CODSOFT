@@ -1,0 +1,3 @@
+Generate strong random passwords.
+Allow users to specify password length.
+Concepts: Random module, String module, User Input.
